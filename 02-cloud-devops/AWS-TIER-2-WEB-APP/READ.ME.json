@@ -1,0 +1,6 @@
+aws-2-tier-webapp/
+│
+├── README.md
+├── setup.sh
+├── terraform/
+└── screenshots/
