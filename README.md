@@ -8,13 +8,13 @@
 
 ---
 
-🔐 Cybersecurity professional based in **Toronto/GTA, Ontario** transitioning into hands-on SOC Analyst, Cloud Security Engineer, and Network Security roles. Building a practical portfolio combining **Fortinet Security Fabric**, **Microsoft Azure**, and **SIEM/EDR tooling** to demonstrate real-world blue team skills.
+🔐 Cybersecurity professional based in **Toronto/GTA, Ontario** transitioning into hands-on SOC Analyst, Devops /Cloud Security Engineer, and Network Security roles. Building a practical portfolio combining **Fortinet Security Fabric**, **Microsoft Azure**, and **SIEM/EDR tooling** to demonstrate real-world blue team skills.
 
 ---
 
 ## 📊 Quick Stats
 
-- 🛡️ Hands-on experience with FortiGate, FortiAnalyzer, CrowdStrike Falcon, Darktrace, Microsoft Purview, Wazuh, and Azure
+- 🛡️ Hands-on experience with FortiGate, FortiAnalyzer,  Microsoft Purview, and Azure
 - 🧪 5+ practical security labs documented end-to-end
 - 📜 Fortinet NSE 4 certified | Pursuing NSE 5 → SC-200 → AZ-500
 - ☁️ Azure cloud security project with live vulnerable app deployment and SAST/DAST scanning
@@ -42,8 +42,7 @@ cybersecurity-Cloud--portfolio/
 ├── 02-cloud-devops/
 │   ├── AWS EC2 Nginx + DNS – Web server deployment with custom domain
 │   └── AWS 3-Tier Web App – Multi-tier architecture on AWS
-├── 03-azure-cloud-security/
-│   └── Azure Cloud Security Sprint – Vulnerable Flask app, SAST/DAST, ScoutSuite, KQL monitoring
+├──
 └── 04-soc-analyst/
     └── Splunk & Wazuh SIEM Labs (In Progress)
 ```
