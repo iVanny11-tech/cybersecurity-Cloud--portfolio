@@ -177,4 +177,4 @@ Based in **/Toronto, Ontario, Canada** — open to **remote and hybrid and onsit
 
 Targeting: SOC Analyst | Devops/Cloud Security Engineer |
 
-📫 Connect with me on [LinkedIn](https://linkedin.com/in/ivan-yamoah-boakye) | 🐙 [GitHub](https://github.com/iVanny11-tech)
+📫 Connect with me on https://www.linkedin.com/in/ivan-yamoah-boakye-70594523a/  
